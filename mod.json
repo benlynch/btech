@@ -1,7 +1,7 @@
 {
     "Name" : "btech test",
     "Directory" : null,
-    "ModVersion" : "0.02",
+    "ModVersion" : "0.03",
     "HarmonyVersion" : null,
     "BattletechVersion" : null,
     "Enabled" : true
