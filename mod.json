@@ -4,5 +4,8 @@
     "ModVersion" : "0.03",
     "HarmonyVersion" : null,
     "BattletechVersion" : null,
+    "Manifest": [
+        { "Type": "MechDef", "Path": "BensMechs\\mechdef_kingcrab_KGC-BEN.json" },
+    ],
     "Enabled" : true
 }
