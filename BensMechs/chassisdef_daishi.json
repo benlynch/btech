@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_kingcrabBase-001",
     "PrefabBase": "kingcrab",
     "Tonnage": 100,
-    "InitialTonnage": 15,
+    "InitialTonnage": 14,
     "weightClass": "ASSAULT",
     "BattleValue": 10206000,
     "Heatsinks": 0,
@@ -61,11 +61,11 @@
             "Hardpoints": [
                 {
                     "WeaponMount": "Ballistic",
-                    "Omni": false
+                    "Omni": true
                 },
                 {
                     "WeaponMount": "AntiPersonnel",
-                    "Omni": false
+                    "Omni": true
                 },
                 {
                     "WeaponMount": "AntiPersonnel",
@@ -82,7 +82,7 @@
             "Location": "LeftTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Missile",
+                    "WeaponMount": "Energy",
                     "Omni": false
                 },
                 {
@@ -96,7 +96,7 @@
                 {
                     "WeaponMount": "Energy",
                     "Omni": true
-                }
+                } 
             ],
             "Tonnage": 0,
             "InventorySlots": 11,
@@ -106,7 +106,12 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+                { 
+                    "WeaponMount": "Missile",
+                    "Omni": true
+                }
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 310,

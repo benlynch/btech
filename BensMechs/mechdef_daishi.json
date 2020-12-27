@@ -114,9 +114,9 @@
     "inventory": [
           {
             "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Weapon_LRM_LRM10_3-Zeus",
             "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
+            "ComponentDefType": "Weapon",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
@@ -125,7 +125,18 @@
           },
           {
             "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "SimGameUID": null,
+            "ComponentDefType": "AmmunitionBox",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+          },
+          {
+            "MountedLocation": "CenterTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
@@ -136,28 +147,6 @@
           },
           {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-          },
-          {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-          },
-          {
-            "MountedLocation": "RightTorso",
             "ComponentDefID": "Weapon_Laser_LargeLaserER_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
@@ -180,7 +169,29 @@
           },
           {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+          },
+          {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+          },
+          {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
@@ -191,7 +202,29 @@
          },
          {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+         },
+         {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+         },
+         {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
@@ -202,7 +235,7 @@
          },
          {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_LRM_LRM10_3-Zeus",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -211,29 +244,7 @@
             "prefabName": null,
             "hasPrefabName": false
          },
-                   {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-          },
-          {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-          },
-          {
+         {
             "MountedLocation": "LeftTorso",
             "ComponentDefID": "Weapon_Laser_LargeLaserER_0-STOCK",
             "SimGameUID": null,
@@ -246,7 +257,62 @@
          },
          {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+          },
+          {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+          },
+          {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },        
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
@@ -290,9 +356,9 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
-            "ComponentDefType": "AmmunitionBox",
+            "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
@@ -301,7 +367,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
@@ -345,9 +411,9 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
-            "ComponentDefType": "AmmunitionBox",
+            "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
@@ -356,7 +422,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
