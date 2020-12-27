@@ -1,11 +1,15 @@
 {
     "Name" : "btech test",
     "Directory" : null,
-    "ModVersion" : "0.03",
+    "Version" : "0.03",
     "HarmonyVersion" : null,
     "BattletechVersion" : null,
     "Manifest": [
-        { "Type": "MechDef", "Path": "BensMechs\\mechdef_kingcrab_KGC-BEN.json" },
+        { "Type": "MechDef",                 "Path": "BensMechs\\mechdef_daishi.json" },
+        { "Type": "HardpointDataDef",        "Path": "BensMechs\\hardpointdatadef_daishi.json" },
+        { "Type": "MovementCapabilitiesDef", "Path": "BensMechs\\movedef_daishi_std.json" },
+        { "Type": "ChassisDef",              "Path": "BensMechs\\chassisdef_daishi.json" },
+        { "Type": "HeatSinkDef",             "Path": "BensMechs\\Gear_HeatSink_Generic_Double_Clan.json" }
     ],
     "Enabled" : true
 }
